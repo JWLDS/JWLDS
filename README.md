@@ -12,7 +12,6 @@
   <img align="center" alt="Jw-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jw-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jw-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Jw-pic" height="150" style="border-radius:50px;" src="https://cdn.dooca.store/2147/posts/faze-clan-1600x900.jpg?v=1635787748">
 </div>
   
   ##
